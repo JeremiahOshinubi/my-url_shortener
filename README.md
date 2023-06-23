@@ -1,6 +1,6 @@
-# Project Description: RedRoute URL Shortener
+# Project Description: My-Url-Shortener
 
-The RedRoute URL Shortener project aims to develop a user-friendly and efficient URL shortening service. The application will allow users to convert long, complex URLs into shorter, more manageable ones. The project will utilize cutting-edge technologies to ensure fast and reliable redirection, while also providing additional features such as link analytics and QR code generation.
+My-Url-Shortener project aims to develop a user-friendly and efficient URL shortening service. The application will allow users to convert long, complex URLs into shorter, more manageable ones. The project will utilize cutting-edge technologies to ensure fast and reliable redirection, while also providing additional features such as link analytics and QR code generation.
 
 ## Key Features:
 
@@ -18,11 +18,11 @@ The RedRoute URL Shortener project aims to develop a user-friendly and efficient
 
 7. User Management: The system will provide user registration and authentication functionalities, allowing users to manage their shortened URLs and access personalized features.
 
-## Brand Name: RedRoute
+## Brand Name: My-Url-Shortener
 
-The brand name "RedRoute" reflects the core essence of the project. The color red signifies energy, speed, and action, aligning with the fast and efficient nature of URL shortening. "Route" suggests navigation and directing users to their desired destinations, emphasizing the primary purpose of the application. The combination of "Red" and "Route" creates a memorable and impactful brand name that resonates with the project's goals.
+The brand name "My-Url-shortener" reflects the core essence of the project. The color red signifies energy, speed, and action, aligning with the fast and efficient nature of URL shortening. "My-Url" suggests navigation and directing users to their desired destinations, emphasizing the primary purpose of the application. The combination of "My-Url" and "Shortener" creates a memorable and impactful brand name that resonates with the project's goals.
 <br/>
-The RedRoute URL Shortener project aims to revolutionize URL management, offering users a reliable and feature-rich platform to create shorter, customized URLs. With its advanced features and user-centric design, RedRoute will provide an exceptional URL shortening experience.
+The My-Url-Shortener project aims to revolutionize URL management, offering users a reliable and feature-rich platform to create shorter, customized URLs. With its advanced features and user-centric design, RedRoute will provide an exceptional URL shortening experience.
 
 ## Built with:
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -35,11 +35,11 @@ The RedRoute URL Shortener project aims to revolutionize URL management, offerin
 It is believed that you have python installed already. Open CMD or terminal
 1. Clone this repo
 ```sh
-git clone https://github.com/Unique-Red/url_shortner.git
+git clone https://github.com/JeremiahOshinubi/my-url_shortener.git
 ```
 2. Open the directory
 ```sh
-cd url_shortner
+cd my-url_shortener
 ```
 3. Create Virtual Environment
 ```sh
