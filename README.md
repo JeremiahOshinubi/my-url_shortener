@@ -18,7 +18,7 @@ My-Url-Shortener project aims to develop a user-friendly and efficient URL short
 
 7. User Management: The system will provide user registration and authentication functionalities, allowing users to manage their shortened URLs and access personalized features.
 
-## Brand Name: RedRoute
+## Brand Name: My-Url-Shortener
 
 The brand name "My-Url-shortener" reflects the core essence of the project. The color red signifies energy, speed, and action, aligning with the fast and efficient nature of URL shortening. "My-Url" suggests navigation and directing users to their desired destinations, emphasizing the primary purpose of the application. The combination of "My-Url" and "Shortener" creates a memorable and impactful brand name that resonates with the project's goals.
 <br/>
